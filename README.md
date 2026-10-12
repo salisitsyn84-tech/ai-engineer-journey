@@ -5,3 +5,4 @@
 ## Структура
 
 - `01_python_basics/` — базовые CLI-скрипты на Python.
+- `02_llm_json_parser/` — утилиты для извлечения JSON из ответов LLM + pytest.
